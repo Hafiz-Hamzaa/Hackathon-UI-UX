@@ -24,13 +24,13 @@ export default function Pages() {
     Home . Pages . <span className="text-[#FB2E86]">Pages</span>
   </p>
 </div>
-            <Image src={paged.src} alt='img' className='m-auto mt-20 max-sm:hidden'/>
+            <Image src={paged} alt='img' className='m-auto mt-20 max-sm:hidden'/>
 
             <div className='flex justify-center flex-wrap mt-28 gap-7'>
-                <Image src={accessories.src} alt="img"/>
-                <Image src={accessories01.src} alt="img"/>
-                <Image src={accessories02.src} alt="img"/>
-                <Image src={accessories03.src} alt="img"/>
+                <Image src={accessories} alt="img"/>
+                <Image src={accessories01} alt="img"/>
+                <Image src={accessories02} alt="img"/>
+                <Image src={accessories03.} alt="img"/>
                 <Image src={accessories04} alt="img"/>
                 <Image src={accessories05} alt="img"/>
                 <Image src={accessories06} alt="img"/>
