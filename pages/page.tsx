@@ -30,7 +30,7 @@ export default function Pages() {
                 <Image src={accessories} alt="img"/>
                 <Image src={accessories01} alt="img"/>
                 <Image src={accessories02} alt="img"/>
-                <Image src={accessories03.} alt="img"/>
+                <Image src={accessories03} alt="img"/>
                 <Image src={accessories04} alt="img"/>
                 <Image src={accessories05} alt="img"/>
                 <Image src={accessories06} alt="img"/>
